@@ -26,3 +26,5 @@ Modo de Preparo
 7. O peixe vai soltar uma água, tampe a panela e deixe cozinha até ficar mole, cuidado para não cozinhar muito e desfazer as postas. Se necessário coloque um pouquinho de água filtrada.
 8. Quando o peixe estiver cozido, tempere com o coentro e a cebolinha e derrame o leite de coco (que nesta receita pode ser opcional).
 9. Servir com pirão e arroz branco.
+---
+[Voltar](../README.md)

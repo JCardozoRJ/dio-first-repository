@@ -14,3 +14,5 @@ Modo de Preparo
 1. Coloque o óleo em uma panela e doure a cebola, acrescente o bacon e frite bem.
 2. Adicione o alho, sal e os ovos, misturando com cuidado para que não se despedacem muito.
 3. Refogue o feijão, baixe o fogo, misture a farinha aos poucos e o cheiro-verde.
+---
+[Voltar](../README.md)
